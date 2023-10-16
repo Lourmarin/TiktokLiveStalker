@@ -1,0 +1,11 @@
+version: '3'
+services:
+  myapp:
+    image: tiktokstalker
+    environment:
+      - DB_HOST=ep-rough-feather-04413861.us-east-2.aws.neon.fl0.io
+      - DB_PORT=5432
+      - DB_USER=fl0user
+      - DB_PASSWORD=zYKedAXOG5s4
+      - DB_NAME=tiktoklivestalker
+      - PYTHONUNBUFFERED=1
