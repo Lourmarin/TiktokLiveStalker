@@ -1,0 +1,2 @@
+hello
+can you explain to me what this script is for? and how can we launch it?
